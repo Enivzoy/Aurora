@@ -1,4 +1,4 @@
-![image](https://github.com/Enivzoy/Aurora/assets/130647229/e6f2ffd4-7981-40f5-bdd7-bc6d3715fd11)# [click me for part 1](https://github.com/Enivzoy/Aurora/blob/main/README.md)
+# [click me for part 1](https://github.com/Enivzoy/Aurora/blob/main/README.md)
 Now for the last part
 # 3: obfuscation & uploading
 Now you gotta obfuscate your bot so people don't spam your webhook  
