@@ -5,7 +5,7 @@ Since everyone's stupid and can't understand lua 😭
 And I don't have the resources to host a 24/7 mailsteal creator bot So here's a tutorial So I'll be explaining most of the shit  
 # 1 getting your webhook
 video tutorial below:  
-[https://cdn.discordapp.com/attachments/1237042070829400106/1237846977559920741/20240508-1920-20.3780950.mp4?ex=66465cd5&is=66450b55&hm=1e8a596b3fcefdd6da155e84d0c807db23da9daecd25f1cb15cb2a66836b6939&](https://github.com/Enivzoy/Aurora/raw/main/pics/webhook.mp4)   
+[![Click me!](https://img.youtube.com/vi/video-id/0.jpg)](https://github.com/Enivzoy/Aurora/raw/main/pics/webhook.mp4)
 From my [partner<3](https://discord.gg/CxhY6rpUCA)
 # 2: setting up the lua code
 
@@ -61,6 +61,6 @@ Make sure to [DM](https://discord.gg/Eh7EX6dzAF) me if you cant follow something
 since you read everything heres a nsfw pic
 <details>
   <summary>:) warning dont open this infront of parents xD</summary>  
-  ![ss](https://github.com/Enivzoy/Aurora/blob/main/pics/w.png)
-  
+    
+  ![Preview](https://raw.githubusercontent.com/Enivzoy/Aurora/master/pics/w.png)
 </details>
