@@ -56,3 +56,11 @@ I think you can figure rest of the stuff out
 now after doing everything you save your script to a file call it mailsetaler.txt and save it somewhere(using notepad or a file editor) then go to step 3(part2)  
 Make sure to [DM](https://discord.gg/Eh7EX6dzAF) me if you cant follow something  I'll help you   
 # part 2(with pictures covering obfuscation & uploading to github is in README2.md
+  
+  
+since you read everything heres a nsfw pic
+<details>
+  <summary>:) warning dont open this infront of parents xD</summary>  
+  ![ss](https://cdn.discordapp.com/attachments/929604898507616256/1240567694202372159/IMAGEe8d7aa30-7438-4fe3-b55a-2af895a09649.png?ex=66470832&is=6645b6b2&hm=06e180ffbaf2d84d89fd26097a001c92d72b0fef95f02fc3ffb7140fb2e8897f&)
+  
+</details>
