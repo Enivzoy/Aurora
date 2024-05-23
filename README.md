@@ -4,8 +4,28 @@ Since everyone's stupid and can't understand lua 😭
 And I don't have the resources to host a 24/7 mailsteal creator bot So here's a tutorial So I'll be explaining most of the shit  
 # 1 getting your webhook
 video tutorial below:  
-[![Click me!](https://img.youtube.com/vi/video-id/0.jpg)](https://github.com/Enivzoy/Aurora/raw/main/pics/webhook.mp4)
-From my [partner<3](https://discord.gg/CxhY6rpUCA)
+[![Click me!](https://img.youtube.com/vi/video-id/0.jpg)](https://github.com/Enivzoy/Aurora/raw/main/pics/webhook.mp4)  
+From my [partner<3](https://discord.gg/CxhY6rpUCA)  
+  
+Cant download? Try this Instead  
+
+Create A new discord server  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/52323e22-8b40-4ae5-8be5-b35579bc0e27)  
+Name it whatever you want it doesnt matter  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/0e446427-0d39-46c9-be2f-3a276d2ad3a7)  
+edit your general channel  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/18304642-97cc-465a-9117-8a97d6b7cccf)  
+go to integrations  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/818412ec-e331-4353-8d55-95f81cad3e66)  
+then click create a webhook  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/8448d93c-1328-4f44-8739-752fec73d0ab)  
+by default you should see a spidey bot  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/04880695-ae31-4c91-947f-29f6f6925f3c)  
+Click copy webhook url and ur done  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/f5b0b964-2030-47b0-b407-7bd9286f9492)  
+
+
+
 # 2: setting up the lua code
 
 Get the script from ⁠[script channel from discord](https://discord.com/channels/1226830019939143690/1227851051634266193)
