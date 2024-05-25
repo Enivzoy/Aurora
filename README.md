@@ -105,37 +105,37 @@ rename it to something else like "loader" "exec" "dupe" "tradescam" "arkohub", "
 # Now uploading
 create your account at [github](https://github.com/)  
 your homepage should look like this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558027157934100/image.png?ex=6646ff32&is=6645adb2&hm=adb18e7598664a0ac26dbcbe0d8e8ea41cea89dee44ff07923b8c4a9eb5e9e80&)  
-clickk this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558199116140584/image.png?ex=6646ff5b&is=6645addb&hm=f1cec2fc885f0a64552c64bf6153e61052b96a34d3c740606f4b87573f454243&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/467c470e-2fea-46dd-9d8f-811f8d354d60)  
+click this  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/e36259f7-965a-41bd-b855-d0cdebfba9ed)  
 click new repository  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/0782fd97-53b3-4633-a9a0-b7c383d7fa00)  
 it will open this page  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558489231953921/image.png?ex=6646ffa0&is=6645ae20&hm=197bb89a6471aba248a44fe8a1f28651b414a95353cf59c5ef4f2a0f00f57ca5&)  
-click create repo when filling in everything  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558688423510017/image.png?ex=6646ffcf&is=6645ae4f&hm=252937aa1796623521a705bea3941a1c2df600fed9717a6510ec4c3f14a5b2cc&)   
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/2c3b7233-b389-4c4f-b918-97fbed434492)  
+click create repo after filling in everything  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/8146420e-d331-4175-a5a6-183270456be8)  
 it will now show this   
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558792157040723/image.png?ex=6646ffe8&is=6645ae68&hm=50af32f57953c5e37732994dff3c29b9758984266c349ab2c6b671201cb9ab2e&)  
-click  uploading an existing file  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240558918015647774/image.png?ex=66470006&is=6645ae86&hm=69cf068aab1fc306b93d1e024919c032102b09e9544e239f4892ed41c7eeb329&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/c36db808-0252-477f-a763-bda51feb6da5)  
+click uploading an existing file  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/65ce8aed-6b7f-49bd-9200-ed460b265f27)  
 it will open this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559024924000266/image.png?ex=66470020&is=6645aea0&hm=218cd3f3460bcafc85b1735fec8d25d7d869bc2c783fb72912e38b7399d65e21&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/a744f62c-e5d8-4728-86cd-2f1fb47042a3)  
 find where you had saved your file ([#⁠tutorial-since-stupid](https://discord.com/channels/1226830019939143690/1240373088063983767/1240556624561832037)⁠ TILL⁠ [#tutorial-since-stupid⁠](https://discord.com/channels/1226830019939143690/1240373088063983767/1240557422091698176)) for me its loader saved in downloads folder  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559309784612924/image.png?ex=66470063&is=6645aee3&hm=43daaffdb521616038afa74a314ef65bc9325ed804c8867abef887b674459059&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/0df73a16-4f5b-4372-944d-4c44485a0d7d)  
 drag and drop your file  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559469205913600/image.png?ex=66470089&is=6645af09&hm=b55d0ff1ef2b1d1b85707de94f60de1f99f603b03ab874bc257c8667be64ca49&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/859fe5e9-cf57-4530-bdb7-2eb17931acdd)  
 once uploaded click commit changes  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559673501814784/image.png?ex=664700ba&is=6645af3a&hm=6a240985d7a85cd90c53b08b87dd5688edfbbb2e70ec97d64716a1989ee9c47e&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/690a548f-1d3d-4685-9ecc-68ea0c0e2f71)  
 if youve done everything right to this point it should look like this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559816875970642/image.png?ex=664700dc&is=6645af5c&hm=31253e6aa23e6eced61432a3cf8440d62c331a3d320af266186237f88cdaa1ea&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/476a12f6-2bf9-4262-8346-f0525c82275b)  
 click your file  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240559950447771689/image.png?ex=664700fc&is=6645af7c&hm=8646488d24043feb95148a50b2ef0e1c93fac4bdabc2b37318403b4798c99627&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/8f64d269-0764-4c5b-8f35-0f716d4ddcaa)  
 it should open this up, then click raw  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240560086980497431/image.png?ex=6647011d&is=6645af9d&hm=f245933b5d8685c95f89496c88ccf57a774e468e5db0a611eea3284258268148&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/a4427ac1-3f2d-4e53-a4a1-4800e338f9fe)  
 you will see this mess  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240560206887260262/image.png?ex=66470139&is=6645afb9&hm=97fa956118a1ed90222e0580202ce8b3eb58eebc28266688a6d0db15ef111f27&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/eb6404dd-0960-4d03-9a61-722eb23c128b)  
 copy the url for me it is https://raw.githubusercontent.com/Enivzoy/Aurora/main/loader  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240560332368510986/image.png?ex=66470157&is=6645afd7&hm=3f0426b6aadc9d427da50fd1983e72f33f64bce6e7f3600ccb82e70a49568215&)   
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/ea75ed82-8545-44f4-ac3c-4798eee14153)   
 then you put the raw link into a loadstring  
 `loadstring(game:HttpGet('RAW LINK HERE'))()`  
 for me it is `loadstring(game:HttpGet('https://raw.githubusercontent.com/Enivzoy/Aurora/main/loader'))()`  
@@ -148,11 +148,3 @@ make sure to dm me your profits
 so i can advertise it 👍  
 if you dont understand something make sure to dmme  
 # thanks to my discord server, arko and levox and future partners for providing me with resources and etc
-
-  
-since you read everything heres a nsfw pic
-<details>
-  <summary>:) warning dont open this infront of parents xD</summary>  
-    
-  ![Preview](https://raw.githubusercontent.com/Enivzoy/Aurora/master/pics/w.png)
-</details>
