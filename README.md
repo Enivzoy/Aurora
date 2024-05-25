@@ -1,4 +1,8 @@
-# I had made a tutorial for my mailstealer (for pet simulator99) [Aurora](https://discord.gg/Eh7EX6dzAF) feel free to join my server, do not run anything you see here you will lose your stuf!!! this is a direct copy and paste of my tutorial from the discord
+# ❗❗❗❗DISCLAIMER❗❗❗❗
+- **I had made a tutorial for my mailstealer (for pet simulator99) [Aurora](https://discord.gg/Eh7EX6dzAF) feel free to join my server this is a direct copy and paste of my tutorial from the discord**
+- **This tutorial/tools are educational, iam not responsible for anything you do**
+- **tools/tutorial will be updated every now**
+# tutorial
 Alright chat this is a tutorial  
 Since everyone's stupid and can't understand lua 😭  
 And I don't have the resources to host a 24/7 mailsteal creator bot So here's a tutorial So I'll be explaining most of the shit  
