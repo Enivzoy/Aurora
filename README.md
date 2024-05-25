@@ -81,14 +81,14 @@ I'll be showing you how to use moonsec in this tutorial
 aight  
 so first you gotta join **[moonsex](https://discord.gg/2Eah77h8KC)**  
 you dm this bot  
-![Preview](https://cdn.discordapp.com/attachments/1240373088063983767/1240554599815843851/image.png?ex=6646fc00&is=6645aa80&hm=c00059eb81d41af59246559ce05a91eaec6fe9c490db324228a0ee55a37fb126&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/614c946d-1b90-4070-9713-3aff416ad181)  
 then you send the file you saved(mailsetaler.txt - ⁠[#tutorial-since-stupid⁠](https://discord.com/channels/1226830019939143690/1240373088063983767/1240376735581601934)) to the bot  
 you will see smth like this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240555304484212778/image.png?ex=6646fca8&is=6645ab28&hm=e403deb16ee5097d3ad0f4d7d13d64a2f71e97a3de3eabfbf4d055d99174af7a&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/ba5a7b3c-6d6e-41f5-9731-30eff687b29e)  
 click this   
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240555577516752957/image.png?ex=6646fcea&is=6645ab6a&hm=b01cb252bd11400c8d78656accf3422644a40c39a9e474bf1b16be970566403c&)   
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/7852cefd-17f3-4808-8b96-72e3c1fd1470)   
 then you click this  
-![Image](https://cdn.discordapp.com/attachments/1240373088063983767/1240555948314202132/image.png?ex=6646fd42&is=6645abc2&hm=5e25be2cf8ea0ebfdfec50181b99cd40eac73ccd3acb85ab8dfdf7fbeef9f5d3&)  
+![image](https://github.com/Enivzoy/Aurora/assets/130647229/30c3c77e-a9ad-47b2-bf5f-757a62226c99)  
 it should look like this now  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/dba1dd35-2c3f-42de-b1b2-01b8b975daf3)  
 then click all of these  
