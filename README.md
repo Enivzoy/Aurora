@@ -31,6 +31,8 @@ Click copy webhook url and ur done
 
 
 # 2: setting up the lua code
+# TIP FOR ANDRIOD USERS
+- get [X-Plore File manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=en&gl=US&pli=1)
 
 Get the script from ⁠[script channel from discord](https://discord.com/channels/1226830019939143690/1227851051634266193)
 It should look like this:
