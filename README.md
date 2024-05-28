@@ -12,7 +12,9 @@ video tutorial below:
 From my [partner<3](https://discord.gg/CxhY6rpUCA)  
   
 Cant download? Try this Instead  
-
+  
+if you cannot get webhook on discord mobile then discord on the web(chrome) + desktop mode  
+  
 Create A new discord server  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/52323e22-8b40-4ae5-8be5-b35579bc0e27)  
 Name it whatever you want it doesnt matter  
@@ -27,7 +29,7 @@ by default you should see a spidey bot
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/04880695-ae31-4c91-947f-29f6f6925f3c)  
 Click copy webhook url and ur done  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/f5b0b964-2030-47b0-b407-7bd9286f9492)  
-
+ 
 
 
 # 2: setting up the lua code
