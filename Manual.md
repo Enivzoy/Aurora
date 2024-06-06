@@ -175,6 +175,7 @@ click new repository
 it will open this page  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/2c3b7233-b389-4c4f-b918-97fbed434492)  
 click create repo after filling in everything  
+# MAKE SURE THE REPOSITORY IS PUBLIC!!! AND NOT PRIVATE THIS WILL BREAK YOUR SCRIPT
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/8146420e-d331-4175-a5a6-183270456be8)  
 it will now show this   
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/c36db808-0252-477f-a763-bda51feb6da5)  
