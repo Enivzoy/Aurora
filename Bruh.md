@@ -20,8 +20,11 @@ Click copy webhook url and continue on the next step
 # Repeat these above incase your webhook gets spammed/deleted
 # Adding webhook
 nowu you have your webhook it should look like `https://discord.com/api/webhooks/1248229152906022963/mL-lPDd0apdtWFM6kmd9UGg0f84u_Yf8HpAXGPuBAUxrDX1mNB9ZaoXIk7RHdGbcEV0A`( we delete the webhooks before we even post it here)   
+  
 then go to tobis(aurora better) server and go to the commands channel   
+  
 now go type `/addwebhoook` and it should auto complete to look like this  
+  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/0c3c9ba8-7184-41b3-83ea-a37caf7b46fd)  
 then type your webhook  
 ![image](https://github.com/Enivzoy/Aurora/assets/130647229/eae68538-f488-44a6-a90d-ec9ef12890d5)  
